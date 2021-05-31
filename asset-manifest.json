@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ngkids-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ngkids-react/static/js/main.b0dea80d.chunk.js",
+    "main.js.map": "/ngkids-react/static/js/main.b0dea80d.chunk.js.map",
+    "runtime-main.js": "/ngkids-react/static/js/runtime-main.898746aa.js",
+    "runtime-main.js.map": "/ngkids-react/static/js/runtime-main.898746aa.js.map",
+    "static/js/2.d6df1cc2.chunk.js": "/ngkids-react/static/js/2.d6df1cc2.chunk.js",
+    "static/js/2.d6df1cc2.chunk.js.map": "/ngkids-react/static/js/2.d6df1cc2.chunk.js.map",
+    "static/js/3.bdc98ce2.chunk.js": "/ngkids-react/static/js/3.bdc98ce2.chunk.js",
+    "static/js/3.bdc98ce2.chunk.js.map": "/ngkids-react/static/js/3.bdc98ce2.chunk.js.map",
+    "index.html": "/ngkids-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ngkids-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d6df1cc2.chunk.js.LICENSE.txt": "/ngkids-react/static/js/2.d6df1cc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.898746aa.js",
+    "static/js/2.d6df1cc2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b0dea80d.chunk.js"
+  ]
+}
